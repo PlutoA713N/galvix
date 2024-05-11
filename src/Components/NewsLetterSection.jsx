@@ -32,8 +32,7 @@ export default function NewsLetterSection() {
 
              <a
             href="#"
-            className=" rounded-md text-black bg-[#FFFFFF] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 md:ml-[40%]"
-            >
+            className="rounded-md text-black bg-white px-3.5 py-2.5 text-sm font-semibold shadow-sm hover:bg-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-600 md:ml-[40%]">            
             Get started
             </a> 
 
