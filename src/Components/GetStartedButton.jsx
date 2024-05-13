@@ -1,6 +1,6 @@
 import React from 'react';
 
-const GetStarted = () => {
+const GetStartedButton = () => {
   // Inline styles using Tailwind's @apply directive
   const buttonStyles = `
     font-weight: 700;
@@ -22,7 +22,7 @@ const GetStarted = () => {
   );
 }
 
-export default GetStarted;
+export default GetStartedButton;
 
 
 
